@@ -29,17 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 <div align="center">
 ✨ 호기심을 가치로 바꾸는 개발자 ✨
 </div>
