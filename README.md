@@ -1,4 +1,4 @@
-##작은 호기심에서 시작해 큰 가치를 만드는 개발자 조현진입니다.
+## 작은 호기심에서 시작해 큰 가치를 만드는 개발자 조현진입니다.
 
 <!--
 **chjiiing08/chjiiing08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
