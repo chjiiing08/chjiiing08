@@ -1,16 +1,6 @@
 <div align="center">
 
-<!-- 타이핑 애니메이션 -->
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Hi+there+👋;I’m+Hyunjin+Cho;Curiosity+→+Value+Developer" />
-
-</div>
-
----
--<div align="center">
-  호기심을 가치로 바꾸는 개발자 ##조현진 입니다
-</div>
-
----
+## 호기심을 가치로 바꾸는 개발자 조현진 입니다
 
 ## 🛠 Tech Stack
 
