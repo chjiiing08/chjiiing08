@@ -6,11 +6,9 @@
 </div>
 
 ---
-
-## 👋 About Me
-- 작은 호기심을 실제 서비스로 구현하는 걸 좋아합니다.
-- 배우는 것에서 끝나지 않고, 직접 만들어보며 성장합니다.
-- 협업과 소통을 통해 더 좋은 결과를 만드는 개발자를 지향합니다.
+-<div align="center">
+  호기심을 가치로 바꾸는 개발자 ##조현진 입니다
+</div>
 
 ---
 
@@ -24,9 +22,3 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/><br/>
 🔧 Tools & Collaboration
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
----
-
-<div align="center">
-✨ 호기심을 가치로 바꾸는 개발자 ✨
-</div>
